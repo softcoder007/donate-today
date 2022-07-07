@@ -8,10 +8,6 @@ body {
     font-weight: 700px;
 }
 
-.donate-today {
-    font-size: ;
-}
-
 .link-button {
     text-decoration: none;
     background-image: linear-gradient(rgba(255, 0, 0, 0.874), tomato);
@@ -141,13 +137,10 @@ h6 {
     border-radius: 10px;
 }
 
-
-
-}
-
 #get-color {
     background: rgba(255, 89, 89, 0.1);
 }
+
 
 footer {
     padding: 30px 30px;
